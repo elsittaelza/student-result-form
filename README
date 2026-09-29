@@ -1,0 +1,30 @@
+# Student Result Form
+
+A React application that allows users to enter a student's name and marks and displays the student's result as Pass or Fail.
+
+## Features
+
+- Student name input
+- Marks input
+- Controlled React form
+- Pass/Fail result calculation
+- Displays submitted student details
+
+## Technologies Used
+
+- React
+- JavaScript
+- CSS
+- Vite
+
+## Result Criteria
+
+Students scoring 40 or above are displayed as **Pass**.
+
+Students scoring below 40 are displayed as **Fail**.
+
+## How to Run
+
+```bash
+npm install
+npm run dev
